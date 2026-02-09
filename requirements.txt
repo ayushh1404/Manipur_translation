@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+requests
+numpy
+scipy
+soundfile
+google-generativeai
+sarvamai
